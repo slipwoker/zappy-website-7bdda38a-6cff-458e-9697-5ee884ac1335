@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-7bdda38a.zappy5.app
+https://example.com
 חנות אופנת בגדי ים דיגיטלית עם מיטב הביקיניז הטרנדיים. חוויית קנייה קלה, משלוח מהיר והחזרות פשוטות. הצטרפי לאלפי לקוחות מרוצות וגלי עכשיו את הלוק שיהפוך אותך לכוכבת החוף!
 
 ### אודות
-https://-7bdda38a.zappy5.app/about
+https://example.com/about
 הכירי את החזון של ביקיני טיים – חנות אופנה אונליין שנולדה מאהבה לים ולסטייל. אנו מביאות לך את הקולקציות הכי שוות מחברות האופנה הגדולות בעולם. קראי עוד על המסע שלנו והצטרפי למהפכת הסטייל.
 
 ### מדריך סגנון
-https://-7bdda38a.zappy5.app/style-guide
+https://example.com/style-guide
 מרגישה אבודה בין כל הדגמים? מדריך הסגנון שלנו יעזור לך למצוא את הביקיני המושלם למבנה הגוף שלך. טיפים מקצועיים, טרנדים לוהטים והמלצות שוות מאתרי האופנה המובילים. היכנסי עכשיו וגלי איך להאיר את החוף!
 
 ### צור קשר
-https://-7bdda38a.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סתם בא לך להתייעץ? צוות המומחיות שלנו כאן בשבילך! פני אלינו בכל נושא ונחזור אלייך במהירות עם חיוך. חוויית השירות של חברות האופנה הגדולות – עכשיו גם אצלך בנייד.
 
 ### Products
-https://-7bdda38a.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ביקיני טיים
 
 ### Cart
-https://-7bdda38a.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-7bdda38a.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-7bdda38a.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-7bdda38a.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-7bdda38a.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-7bdda38a.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ביקיני טיים
 
 ### Category
-https://-7bdda38a.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ביקיני טיים
 
 ### תודה שפנית אלינו
-https://-7bdda38a.zappy5.app/thank-you
+https://example.com/thank-you
 ביקיני טיים - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-7bdda38a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-7bdda38a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-7bdda38a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-7bdda38a.zappy5.app/sitemap.xml
-- Robots: https://-7bdda38a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-7bdda38a.zappy5.app/llms-full.txt
-- Products (JSON): https://-7bdda38a.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-7bdda38a.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
